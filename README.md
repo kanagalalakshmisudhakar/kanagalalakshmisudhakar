@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kanagalalakshmisudhakar
+- 👋 Hi, I’m kanagala lakshmi sudhakar
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning full stack development
 - 📫  you can reach me by mail ammalakshmisudhakar@gmail.com
