@@ -1,105 +1,36 @@
-## Hi, I'm Kanagala Lakshmi Sudhakar 👋
+<h1 align="center">Hi 👋, I'm kanagala lakshmi sudhakar</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
-🔗 Portfolio | LinkedIn | GitHub | Email
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanagalalakshmisudhakar&label=Profile%20views&color=0e75b6&style=flat" alt="kanagalalakshmisudhakar" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanagalalakshmisudhakar" alt="kanagalalakshmisudhakar" /></a> </p>
 
-## 🙋‍♂️ About Me
+<p align="left"> <a href="https://twitter.com/_ammasudhhakar_" target="blank"><img src="https://img.shields.io/twitter/follow/_ammasudhhakar_?logo=twitter&style=for-the-badge" alt="_ammasudhhakar_" /></a> </p>
 
-Hello there! 👋  
-I am **Kanagala Lakshmi Sudhakar**, an aspiring **Software Engineer** with a strong interest in **Full Stack Development**.
+- 👨‍💻 All of my projects are available at [kanagalalakshmisudhakar.github.io/portfolio/](kanagalalakshmisudhakar.github.io/portfolio/)
 
-I am currently building my skills in **Java, Spring Boot, and React.js**, focusing on developing clean, scalable, and maintainable applications. I enjoy solving logical problems, learning new technologies, and applying my knowledge through hands-on projects.
+- 📫 How to reach me **ammalakshmisudhakar@gmail.com**
 
-### 💼 My Experience
-My learning journey includes working with:
-- Backend development using **Java and Spring Boot**
-- Building **RESTful APIs**
-- Frontend development using **HTML, CSS, JavaScript, and React**
-- Version control using **Git and GitHub**
-- Basic experience with **databases** like MySQL
-- Exploring **Python** for data analysis and machine learning concepts
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-I strongly believe in **continuous learning** and improving my development skills by building real-world projects and experimenting with new tools and frameworks.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/dev.kanagalalakshmisudhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.kanagalalakshmisudhakar" height="30" width="40" /></a>
+<a href="https://twitter.com/_ammasudhhakar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ammasudhhakar_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sudha2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudha2002" height="30" width="40" /></a>
+<a href="https://instagram.com/ammalakshmisudhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ammalakshmisudhakar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ammasudhakar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ammasudhakar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ammalakshmisudh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ammalakshmisudh1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ammalakshmisudhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ammalakshmisudhakar" height="30" width="40" /></a>
+</p>
 
-I am always open to connecting with fellow developers, learners, and professionals to exchange ideas and grow together.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-📫 Feel free to reach out!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanagalalakshmisudhakar&show_icons=true&locale=en&layout=compact" alt="kanagalalakshmisudhakar" /></p>
 
-- LinkedIn: *(add your link)*
-- Email: ammalakshmisudhakar@gmail.com
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanagalalakshmisudhakar&show_icons=true&locale=en" alt="kanagalalakshmisudhakar" /></p>
 
----
-
-## 💻 Tech Stack I Use to Code
-
-### Languages
-- Java
-- Python
-- JavaScript
-
-### Backend
-- Spring Boot
-- REST APIs
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-
-### Tools & Platforms
-- Git
-- GitHub
-- Maven
-- VS Code
-- Spring Tool Suite (STS)
-
----
-
-## 🧠 My Skills
-- Full Stack Web Development
-- REST API Development
-- Frontend UI Design
-- Backend Application Logic
-- Problem Solving
-- Version Control with Git
-
----
-
-## 💥 Top Projects
-- Personal Portfolio Website
-- Twitter Sentiment Analysis (Python)
-- Spring Boot REST API Projects
-- React Frontend Applications
-- Full Stack Demo Projects (Spring Boot + React)
-
-👉 **Check all repositories:**  
-https://github.com/kanagalalakshmisudhakar?tab=repositories
-
----
-
-## 🏆 GitHub Trophies
-🏅 *(You can enable trophies later using github-profile-trophy)*
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanagalalakshmisudhakar&show_icons=true&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanagalalakshmisudhakar)
-
----
-
-## ✍️ Random Dev Quote
-> “Learning never exhausts the mind.”
-
----
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=kanagalalakshmisudhakar)
-
----
-
-⭐ *I am actively building projects and improving my skills every day.*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanagalalakshmisudhakar&" alt="kanagalalakshmisudhakar" /></p>
