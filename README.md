@@ -1,6 +1,6 @@
 ## Hi, I'm Kanagala Lakshmi Sudhakar 👋
 
-🎓 Graduate | 💻 Aspiring Full Stack Developer  
+🎓 Information Technology Graduate | 💻 Aspiring Full Stack Developer  
 🌱 Currently learning **Spring Boot, React, and Full Stack Development**
 
 ### 👨‍💻 Skills
