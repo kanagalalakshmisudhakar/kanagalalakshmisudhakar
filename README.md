@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/_ammasudhhakar_" target="blank"><img src="https://img.shields.io/twitter/follow/_ammasudhhakar_?logo=twitter&style=for-the-badge" alt="_ammasudhhakar_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/_ammasudhhakar_" target="blank"><img src="https://img.shields.io/twitter/follow/_ammasudhhakar_?logo=twitter&style=for-the-badge" alt="_ammasudhhakar_" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [kanagalalakshmisudhakar.github.io/portfolio/](kanagalalakshmisudhakar.github.io/portfolio/)
 
